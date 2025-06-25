@@ -87,8 +87,7 @@ Understanding cache behavior is crucial for optimizing processor performance. By
 | 0 | 1560 |
 | 1 | 230 |
 | ... | ... |
-| 22 | 322 |
-| 23 | 422 |
+
 
 ## How to Use
 
