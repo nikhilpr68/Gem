@@ -3,13 +3,6 @@
 
 **Course:** Computer Organisation and Architecture (COA)
 **Assignment:** GEM5 Simulator - Instruction Cache Profiling
-**Contributors:**
-
-- Kairav Kumar (230101051)
-- Vansh Panwar (230101021)
-- Nakshatra (230101068)
-**Date:** 28 January 2025
-
 
 ## Overview
 
