@@ -1,4 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # README: I-Cache Profiling and Analysis in GEM5
 
@@ -135,9 +134,5 @@ Facilitates informed decisions on cache size and associativity for target worklo
 - Course materials on cache organization and performance
 
 
-## Contact
 
-For questions or collaboration, please contact any of the contributors via their institute email addresses.
-
-**Happy Simulating!** 🚀
 
