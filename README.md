@@ -14,6 +14,9 @@ This project extends the [GEM5](https://www.gem5.org/) simulator to provide deta
 
 These modifications support in-depth architectural exploration and performance tuning for modern processor designs.
 
+`## Scored full marks on the project 10/10`
+
+
 ## Motivation
 
 Understanding cache behavior is crucial for optimizing processor performance. By instrumenting GEM5 to track not just total cache hits/misses, but also their distribution across sets and ways, we gain actionable insights into:
@@ -125,6 +128,7 @@ Facilitates informed decisions on cache size and associativity for target worklo
 
 - [GEM5 Documentation](https://www.gem5.org/documentation/)
 - Course materials on cache organization and performance
+
 
 
 
