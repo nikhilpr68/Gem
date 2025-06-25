@@ -1,4 +1,4 @@
-
+`## Scored full marks on the project 10/10`
 # README: I-Cache Profiling and Analysis in GEM5
 
 **Course:** Computer Organisation and Architecture (COA)
@@ -14,7 +14,7 @@ This project extends the [GEM5](https://www.gem5.org/) simulator to provide deta
 
 These modifications support in-depth architectural exploration and performance tuning for modern processor designs.
 
-`## Scored full marks on the project 10/10`
+
 
 
 ## Motivation
